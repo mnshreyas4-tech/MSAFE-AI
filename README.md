@@ -16,8 +16,6 @@
 8. [Hardware Integration](#hardware-integration)
 9. [Demo Mode](#demo-mode)
 10. [Documentation](#documentation)
-11. [Team & Credits](#team--credits)
-12. [License](#license)
 
 ---
 
@@ -225,26 +223,6 @@ Full documentation available in the `/docs` folder:
 - **[hardware.md](docs/hardware.md)** — Sensor deployment and specifications
 - **[authentication.md](docs/authentication.md)** — User roles, permissions, and auth flows
 - **[demo.md](docs/demo.md)** — Step-by-step guide to using Demo Mode
-
----
-
-## 👨‍💼 Team & Credits
-
-**Team Carnage**
-- Lead Architect: Shreyas (mnshreyas4@gmail.com)
-- Geotech Engineer: NP Dechamma
-- Systems Engineer: Samarth K
-- Backend Developer: Prabhanjan GP
-
-**Contributors & Advisors**: All contributors are recognized in CONTRIBUTING.md
-
----
-
-## 📋 License
-
-MIT License © 2024 Team Carnage
-
-See [LICENSE](LICENSE) for full terms.
 
 ---
 
