@@ -256,6 +256,10 @@ For contributor credits, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 - Amar B — amardb386@gmail.com
 - Dhureen P - dhureenprabhakar@gmail.com
+- Shreyas - mnshreyas4@gmail.com
+- Sahana S - sahanasssc@gmail.com
+- Kannika B G - kannikab.g1729@gmail.com
+- Kulkarni Rachit Ravinandan - rachitkulkarni1983@gmail.com
 
 ---
 
