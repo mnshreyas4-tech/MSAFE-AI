@@ -33,7 +33,7 @@ This system integrates IoT sensors, cloud processing, and an intuitive operation
 
 ### Project Snapshot
 
-MSAFE-AI is built to reduce operational risk in underground mining by combining IoT sensing, edge analytics, and AI-driven decision support. The platform helps mine operators detect ground instability early, act before damage escalates, and maintain traceable evidence for compliance and safety audits.
+MSAFE-AI is built to reduce operational risk in underground mining by combining IoT sensing, edge analytics, and AI-driven decision support. The platform helps mine operators detect ground instability and act before hazardous conditions escalate.
 
 - **24/7 Monitoring**: Continuous visibility into vibration patterns and mining-zone stability
 - **Early Warning Capability**: Detect abnormal shifts before a subsidence event becomes critical
@@ -249,6 +249,12 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Pull request guidelines
 - Code style and standards
 - Commit message conventions
+
+For contributor credits, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
+## 👥 Contributors
+
+- Amar B — amardb386@gmail.com
 
 ---
 
