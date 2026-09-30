@@ -204,7 +204,7 @@ npm run test   # Run test suite
 
 ### Sensor Network
 - **ESP32 Microcontroller**: Low-power, multi-sensor coordinator
-- **LoRa SX1262 Transceiver**: Long-range mesh communication (up to 15km)
+- **LoRa SX1262 Transceiver**: Long-range mesh communication (up to 2 - 3km)
 - **Vibration Sensors**: 2.8Hz+frequency accelerometers (fixed and mobile)
 - **Topology**: Tree/mesh hybrid for redundancy and coverage
 
