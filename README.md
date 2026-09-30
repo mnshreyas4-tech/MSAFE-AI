@@ -31,6 +31,22 @@ MSAFE-AI is an intelligent mine subsidence monitoring platform designed to:
 
 This system integrates IoT sensors, cloud processing, and an intuitive operational dashboard to provide complete visibility into mine stability and worker safety.
 
+### Project Snapshot
+
+MSAFE-AI is built to reduce operational risk in underground mining by combining IoT sensing, edge analytics, and AI-driven decision support. The platform helps mine operators detect ground instability early, act before damage escalates, and maintain traceable evidence for compliance and safety audits.
+
+- **24/7 Monitoring**: Continuous visibility into vibration patterns and mining-zone stability
+- **Early Warning Capability**: Detect abnormal shifts before a subsidence event becomes critical
+- **Actionable Intelligence**: Turn raw sensor data into clear alerts, reports, and operational guidance
+- **Safety-First Design**: Support safer mining workflows for operators, geotech teams, and regulators
+- **Audit Readiness**: Maintain historical logs, compliance records, and event timelines
+
+### Canva Design Reference
+
+For the visual presentation and concept overview, see the project design here:
+
+[Open Canva Design](https://canva.link/dcblqyg9mhar595)
+
 ---
 
 ## 🔄 System Context
@@ -100,23 +116,23 @@ The MSAFE-AI Dashboard is the operational nerve center of the system. It provide
 │   Sensors    │        │   & Edge     │        │   Backend   │
 │   (LoRa)     │        │   Processing │        │   & ML      │
 └──────────────┘        └──────────────┘        └─────────────┘
-       │                       │                        │
-       │                       │                        │
-       ▼                       ▼                        ▼
-   ESP32 Nodes          Noise Filtering         Alert Engine
-   SX1262 Mesh          Anomaly Detection       Data Store
-   2.8Hz Sensors        Real-Time Aggregation   ML Models
+        │                       │                        │
+        │                       │                        │
+        ▼                       ▼                        ▼
+    ESP32 Nodes          Noise Filtering         Alert Engine
+    SX1262 Mesh          Anomaly Detection       Data Store
+    2.8Hz Sensors        Real-Time Aggregation   ML Models
 
-                                                       │
-                                                       ▼
-                                            ┌──────────────────┐
-                                            │  MSAFE Dashboard │
-                                            └──────────────────┘
-                                                       │
-                        ┌──────────────┬──────────────┼──────────────┐
-                        ▼              ▼              ▼              ▼
-                  Safety Officer  Geotech Eng.  Operator      DGMS Auditor
-                  (Alert Mgmt)    (Analysis)    (Control)     (Compliance)
+                                                        │
+                                                        ▼
+                                             ┌──────────────────┐
+                                             │  MSAFE Dashboard │
+                                             └──────────────────┘
+                                                        │
+                         ┌──────────────┬──────────────┼──────────────┐
+                         ▼              ▼              ▼              ▼
+                   Safety Officer  Geotech Eng.  Operator      DGMS Auditor
+                   (Alert Mgmt)    (Analysis)    (Control)     (Compliance)
 ```
 
 ---
