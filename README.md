@@ -252,10 +252,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 For contributor credits, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
-## 👥 Contributors
-
-- Amar D B — amardb386@gmail.com
-
 ---
 
 ## 📞 Support & Issues
