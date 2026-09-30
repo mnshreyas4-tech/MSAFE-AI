@@ -255,6 +255,7 @@ For contributor credits, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
 ## 👥 Contributors
 
 - Amar B — amardb386@gmail.com
+- Dhureen P - dhureenprabhakar@gmail.com
 
 ---
 
